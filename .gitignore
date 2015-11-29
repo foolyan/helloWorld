@@ -1,0 +1,6 @@
+.classpath
+.myeclipse/
+.project
+.mymetadata
+.settings/
+/webapp/WEB-INF/classes/
